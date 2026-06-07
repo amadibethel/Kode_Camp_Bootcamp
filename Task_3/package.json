@@ -1,0 +1,11 @@
+{
+  "name": "github-user-kcstore-project",
+  "version": "1.0.0",
+  "description": "GitHub API and KCStore CRUD project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
+
